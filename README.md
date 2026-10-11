@@ -1,6 +1,6 @@
 # 樂燃教育中心網站預覽
 
-這個 repository 只用作六頁靜態網站審閱，沒有改動現有內容或設計。
+這個 repository 用作樂燃教育中心靜態網站審閱。服務總覽採水彩教材圖片及分類入口，另有完整課程目錄，以及文件內 105 項課程與課餘導師服務共 106 個獨立詳情頁。
 
 ## 部署
 
@@ -13,7 +13,7 @@
 
 ## 分享範圍
 
-- site/ 只包含六頁 HTML、CSS、互動 JavaScript 和頁面使用的 11 張圖片。
+- site/ 只包含 113 個 HTML 頁面（六個主要頁面、完整目錄及 106 個詳情頁）、CSS、互動 JavaScript 和頁面使用的 12 張圖片。
 - 原始 PDF、原始 JPEG、Sites 專案 metadata、工具及憑證沒有放入這個 repository。
 - 網頁保留 noindex,nofollow 作預覽。這是搜尋收錄指令，並非密碼或私隱保護。
 - GitHub Pages 網站可被持有網址的人查看。免費帳戶通常需要 public repository；public repository 的檔案及提交紀錄亦公開。
